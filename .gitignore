@@ -1,0 +1,7 @@
+docs/archive/
+screenshots/archive/
+
+.pytest_cache/
+.idea/
+__pycache__/
+
